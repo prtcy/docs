@@ -31,6 +31,10 @@ If the API:
 
 ## UI
 
+### Homepage
+
+### Moods (Navigation)
+
 ### Nation Portals
 ![Nation Portals @prtcy](imgs/nation-portals.png)
 
@@ -56,3 +60,5 @@ If the API:
 2. Can edit once per game year
 3. Cannot edit if inactive >= 7 days
 4. Same rules for primary of author nation of union (if union full integration set to yes)
+
+### Yaps
