@@ -1,5 +1,9 @@
 # Documentation
-This repository contains technical documentation for Particracy Legacy and its web services.
+This repository contains technical documentation for Particracy Legacy and its web services. Particracy Legacy is an RP-based political simulation game. Free to play, works on the browser.
+
+Stay up to date on the latest news and alerts: https://prtcy.substack.com/
+Support on Patreon: https://www.patreon.com/prtcy
+Subscribe to the YouTube channel: https://www.youtube.com/@prtcy
 
 ## API
 
