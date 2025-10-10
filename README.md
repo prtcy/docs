@@ -34,5 +34,5 @@ If the API:
 ## UI
 
 ### Nation Portals
-![Nation Portals @prtcy](https://i.ibb.co/twymQtJW/Particracy-Legacy-Launch.png)
+![Nation Portals @prtcy](imgs/nation-portals.png)
 
