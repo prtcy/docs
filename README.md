@@ -1,7 +1,7 @@
 # Documentation
 This repository contains technical documentation for Particracy Legacy and its web services. Particracy Legacy is an RP-based political simulation game. Free to play, works on the browser.
 
-Stay up to date on the latest news and alerts at https://prtcy.substack.com/.
+Keep up with the latest news and updates at https://prtcy.substack.com/.
 
 ## API
 
@@ -34,3 +34,25 @@ If the API:
 ### Nation Portals
 ![Nation Portals @prtcy](imgs/nation-portals.png)
 
+3 templates, all templates have the same fields.
+ 
+#### Styling & layout
+
+#### Basic details
+
+#### Extra details (approval needed, auto-docket request)
+
+#### Treaties and unions
+
+#### State figures
+
+#### Political parties
+
+#### Quicklinks
+
+#### Limits
+
+1. Only primary can edit
+2. Can edit once per game year
+3. Cannot edit if inactive >= 7 days
+4. Same rules for primary of author nation of union (if union full integration set to yes)
