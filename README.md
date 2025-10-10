@@ -7,6 +7,12 @@ This repository contains technical documentation for Particracy Legacy and its w
 
 ## API
 
+### Endpoints
+
+1. `GET date/` - fetches the game year, month and remaining tickers for current month
+2. `GET community/` - fetches the list of registered players
+3. `GET `newsfeed/`
+
 ### Notifications
 
 ## UI
