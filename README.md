@@ -110,3 +110,8 @@ Figures (max 15)
 4. Same rules for primary of author nation of union (if union full integration set to yes)
 
 ### Yaps
+
+-
+
+Post "Full" Edit
+Template is under Post Edit Templates > editpost. The WYSIWYG editor works with JS, which loads up PHP/HTML/CSS through an iframe - no idea why. To edit the styling, it requires direct server access (or via the repo's CI/CD) to jscripts/sceditor/styles/jquery.sceditor.mybb.css
